@@ -73,7 +73,6 @@ ZSH_THEME="alanpeabody"
 plugins=(
     git
     zsh-syntax-highlighting
-    zsh-autosuggestions
 )
 
 source $ZSH/oh-my-zsh.sh
